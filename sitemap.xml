@@ -9,4 +9,12 @@
   <url><loc>https://stlouisbankruptcy.org/faq.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://stlouisbankruptcy.org/statistics.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://stlouisbankruptcy.org/resources.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/es.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/counties.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/counties/st-louis-city.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/counties/st-louis-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/counties/st-charles-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/counties/jefferson-county.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/district-lookup.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://stlouisbankruptcy.org/legal-aid.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>
