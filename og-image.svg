@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#0d1117"/>
+  <!-- Arch accent (Gateway Arch) -->
+  <g transform="translate(600,105)" fill="none" stroke="#58a6ff" stroke-width="2.5">
+    <path d="M-30,20 Q-30,-30 0,-35 Q30,-30 30,20"/>
+  </g>
+  <text x="600" y="230" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="48" font-weight="bold" fill="#e6edf3">St. Louis Bankruptcy</text>
+  <text x="600" y="290" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#58a6ff">Local Bankruptcy Court Data and Resources</text>
+  <rect x="250" y="320" width="700" height="2" fill="#30363d"/>
+  <text x="600" y="380" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#7d8590">E.D. Missouri -- Case Statistics -- Filing Guide</text>
+  <text x="600" y="560" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#484f58">Open Bankruptcy Project</text>
+  <text x="600" y="585" text-anchor="middle" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#484f58">stlouisbankruptcy.org</text>
+</svg>
