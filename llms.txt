@@ -1,5 +1,5 @@
-# St. Louis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
-> Last updated: 2026-05-01
+# St. Louis Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
+> Last updated: 2026-09-25
 
 > Filing bankruptcy in St. Louis? Free 2026 guide covering Missouri exemptions, Chapter 7 vs 13, local court info, costs, and the means test.
 
@@ -13,10 +13,10 @@ stlouisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Buy a Car While in Chapter 13? | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/buy-car-chapter-13.html
 - Buying a House After Bankruptcy in St. Louis: https://stlouisbankruptcy.org/buying-a-house.html
 - Car Leases and Bankruptcy | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/car-lease.html
-- Chapter 13 Eligibility in St. Louis | Requirements & Debt Limits: https://stlouisbankruptcy.org/chapter-13-eligibility.html
+- Chapter 13 Eligibility in St. Louis | Requirements &amp; Debt Limits: https://stlouisbankruptcy.org/chapter-13-eligibility.html
 - Chapter 13 Payments in St. Louis | How Much Will You Pay?: https://stlouisbankruptcy.org/chapter-13-payments.html
 - Chapter 13 Bankruptcy in St. Louis - Payment Plans, Dismissal Rates, Timeline | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/chapter-13.html
-- Chapter 7 Eligibility in St. Louis | Means Test & Requirements: https://stlouisbankruptcy.org/chapter-7-eligibility.html
+- Chapter 7 Eligibility in St. Louis | Means Test &amp; Requirements: https://stlouisbankruptcy.org/chapter-7-eligibility.html
 - Chapter 7 Bankruptcy in St. Louis - Eligibility, Exemptions, Timeline | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/chapter-7.html
 - Bankruptcy Filing Checklist for St. Louis, Missouri: https://stlouisbankruptcy.org/checklist.html
 - Bankruptcy in Ballwin, MO - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/cities/ballwin.html
@@ -33,12 +33,12 @@ stlouisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Bankruptcy in Webster Groves, MO - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/cities/webster-groves.html
 - Bankruptcy in Wildwood, MO - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/cities/wildwood.html
 - Converting Between Chapters in St. Louis | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/converting-chapters.html
-- How Much Does Bankruptcy Cost in St. Louis? - Filing Fees, Attorney Fees | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/cost.html
+- St. Louis Bankruptcy Cost [2026]: Eastern District of Missouri Filing Fees and Attorney Fees: https://stlouisbankruptcy.org/cost.html
 - Bankruptcy by County - St. Louis Metro Area | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/counties.html
-- Bankruptcy in Jefferson County - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/counties/jefferson-county.html
-- Bankruptcy in St. Charles County - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/counties/st-charles-county.html
-- Bankruptcy in St. Louis City - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/counties/st-louis-city.html
-- Bankruptcy in St. Louis County - St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/counties/st-louis-county.html
+- Bankruptcy in Jefferson County MO [2026]: Eastern District of Missouri Filing Information: https://stlouisbankruptcy.org/counties/jefferson-county.html
+- Bankruptcy in St. Charles County MO [2026]: Eastern District of Missouri Filing Information: https://stlouisbankruptcy.org/counties/st-charles-county.html
+- Bankruptcy in St. Louis City [2026]: Eastern District of Missouri Filing Information: https://stlouisbankruptcy.org/counties/st-louis-city.html
+- Bankruptcy in St. Louis County MO [2026]: Eastern District of Missouri Filing Information: https://stlouisbankruptcy.org/counties/st-louis-county.html
 - St. Louis Federal Bankruptcy Court Guide - E.D. Missouri Filing Information: https://stlouisbankruptcy.org/court-guide.html
 - Rebuilding Credit After Bankruptcy in St. Louis, Missouri: https://stlouisbankruptcy.org/credit-after-bankruptcy.html
 - Credit Card Debt and Bankruptcy in St. Louis | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/credit-card-debt.html
@@ -53,12 +53,12 @@ stlouisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Can I Keep My Engagement Ring in Bankruptcy? | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/engagement-ring.html
 - Can Bankruptcy Stop an Eviction? | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/eviction.html
 - Missouri Bankruptcy Exemptions - What You Can Keep | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/exemptions.html
-- St. Louis Bankruptcy FAQ - 15 Common Questions Answered | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/faq.html
+- St. Louis Bankruptcy FAQ [2026]: Eastern District of Missouri Procedure and Local Practice: https://stlouisbankruptcy.org/faq.html
 - How to Find Out if Someone Filed Bankruptcy | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/find-bankruptcy-filing.html
 - Stop Foreclosure in St. Louis, Missouri - Bankruptcy Protection: https://stlouisbankruptcy.org/foreclosure.html
 - Bankruptcy Glossary | St. Louis Bankruptcy Terms: https://stlouisbankruptcy.org/glossary.html
 - Bankruptcy Income Limits in St. Louis | Missouri Median Income: https://stlouisbankruptcy.org/income-limits.html
-- St. Louis Bankruptcy - Chapter 7 & 13 Filing Guide: https://stlouisbankruptcy.org/
+- St. Louis Bankruptcy - Chapter 7 &amp; 13 Filing Guide: https://stlouisbankruptcy.org/
 - Judgments and Bankruptcy in St. Louis: https://stlouisbankruptcy.org/judgments.html
 - Can I Keep My Car in Bankruptcy? - St. Louis, Missouri Guide: https://stlouisbankruptcy.org/keep-your-car.html
 - Can I Keep My House in Bankruptcy? - St. Louis, Missouri Guide: https://stlouisbankruptcy.org/keep-your-house.html
@@ -76,7 +76,7 @@ stlouisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Second Mortgage and Bankruptcy in St. Louis: https://stlouisbankruptcy.org/second-mortgage.html
 - Bankruptcy and Security Clearance | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/security-clearance.html
 - Small Business Bankruptcy in St. Louis, Missouri - Options for Business Owners: https://stlouisbankruptcy.org/small-business.html
-- St. Louis Bankruptcy Statistics - 58,254 Cases Analyzed | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/statistics.html
+- St. Louis Bankruptcy Statistics [2026]: 58,254 Cases in the Eastern District of Missouri: https://stlouisbankruptcy.org/statistics.html
 - What Bills Can I Stop Paying Before Filing? | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/stop-paying-bills.html
 - Student Loans and Bankruptcy in St. Louis, Missouri: https://stlouisbankruptcy.org/student-loans.html
 - Surrendering Your Car in Bankruptcy | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/surrender-car.html
@@ -88,6 +88,7 @@ stlouisbankruptcy.org is part of the Open Bankruptcy Project (openbankruptcyproj
 - Stop Wage Garnishment in St. Louis, Missouri - Bankruptcy Protection: https://stlouisbankruptcy.org/wage-garnishment.html
 - What to Expect When Filing Bankruptcy - Timeline, 341 Meeting, Discharge | St. Louis Bankruptcy Guide: https://stlouisbankruptcy.org/what-to-expect.html
 - Privacy Policy: https://stlouisbankruptcy.org/privacy.html
+- About stlouisbankruptcy.org: https://stlouisbankruptcy.org/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

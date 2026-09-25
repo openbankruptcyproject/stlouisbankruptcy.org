@@ -1,6 +1,6 @@
 # stlouisbankruptcy.org -- Full Content
 
-> Last updated: 2026-05-01
+> Last updated: 2026-09-25
 
 This file contains the full text content of all pages on stlouisbankruptcy.org.
 Part of the Open Bankruptcy Project (openbankruptcyproject.org).
@@ -19,6 +19,8 @@ Home›341 Meeting of Creditors in St. Louis
 341 Meeting of Creditors in St. Louis
 
 The 341 meeting is a required step in every bankruptcy case. Despite its name, creditors rarely attend.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your finances. It usually lasts 5-10 minutes.
 
 What to Bring
 
@@ -97,15 +99,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -128,6 +148,8 @@ Home›The Automatic Stay in St. Louis Bankruptcy
 The Automatic Stay in St. Louis Bankruptcy
 
 The automatic stay is one of the most powerful protections in bankruptcy. It takes effect the instant your petition is filed.
+
+The automatic stay immediately stops collection calls, lawsuits, garnishments, foreclosures, and repossessions the moment your bankruptcy petition is filed.
 
 What the Automatic Stay Stops
 
@@ -206,15 +228,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -239,6 +279,8 @@ Your Bank Account and Bankruptcy in St. Louis
 Filing bankruptcy raises questions about bank freezes, fund seizure, and account protection. Here is what St. Louis residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Only if you owe money to that bank. If not, your account should not be frozen. To be safe, open an account at a bank where you have no debts.
 
 Will My Bank Account Be Frozen?
 
@@ -341,15 +383,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -372,6 +432,8 @@ Home›Can I Buy a Car While in Chapter 13? | St. Louis Bankruptcy Guide
 Can I Buy a Car While in Chapter 13?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+You need trustee approval and a court motion to purchase a vehicle during Chapter 13. The trustee will evaluate whether the purchase is necessary and whether the payment fits your budget. Interest rates are typically higher. Used vehicles are more likely to be approved.
 
 What You Need to Know
 
@@ -416,13 +478,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -447,6 +529,8 @@ Buying a House After Bankruptcy in St. Louis
 Bankruptcy does not permanently prevent homeownership. Here are the waiting periods, loan options, and steps for St. Louis area homebuyers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+FHA: 2 years after Ch. 7 discharge, 1 year into Ch. 13 plan. Conventional: 4 years. Extenuating circumstances may shorten FHA to 1 year.
 
 Waiting Periods by Loan Type
 
@@ -551,15 +635,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -582,6 +684,8 @@ Home›Car Leases and Bankruptcy | St. Louis Bankruptcy Guide
 Car Leases and Bankruptcy
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+You have 60 days after filing to decide whether to assume (keep) or reject (surrender) your car lease. If you are current on payments, you can typically keep the lease by assuming it. If behind, rejection discharges the remaining obligation. Lease buyout may be an option if you want to own the vehic
 
 What You Need to Know
 
@@ -626,13 +730,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -644,7 +768,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 13 Eligibility in St. Louis | Requirements & Debt Limits
+## Chapter 13 Eligibility in St. Louis | Requirements &amp; Debt Limits
 Source: https://stlouisbankruptcy.org/chapter-13-eligibility.html
 
 St. Louis Bankruptcy Guide
@@ -657,6 +781,8 @@ Chapter 13 Eligibility in St. Louis
 Chapter 13 lets you keep property while repaying debts over 3-5 years. Here are the requirements for St. Louis filers.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Basic Requirements
 
@@ -761,15 +887,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -794,6 +938,8 @@ Chapter 13 Payments in St. Louis
 Your Chapter 13 payment depends on income, expenses, debts, and assets. Here is how payments work in the Eastern District of Missouri.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Depends on income, expenses, debts, and assets. Must cover priority debts in full plus your disposable income. Ranges from hundreds to thousands monthly.
 
 How Payments Are Calculated
 
@@ -908,15 +1054,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -957,6 +1121,8 @@ Plan Duration
 $313
 
 Filing Fee
+
+The Eastern District of Missouri has a 61.9% Chapter 13 dismissal rate based on 2008-2024 data. A dismissed case means the debtor got no debt relief despite months or years of payments.
 
 What Is Chapter 13?
 
@@ -1085,15 +1251,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1105,7 +1289,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Chapter 7 Eligibility in St. Louis | Means Test & Requirements
+## Chapter 7 Eligibility in St. Louis | Means Test &amp; Requirements
 Source: https://stlouisbankruptcy.org/chapter-7-eligibility.html
 
 St. Louis Bankruptcy Guide
@@ -1118,6 +1302,8 @@ Chapter 7 Eligibility in St. Louis
 Not everyone qualifies for Chapter 7. The means test determines eligibility based on your income and expenses.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+No hard limit. The means test threshold is the Missouri median: $56,847 for 1 person. Below = automatic qualification. Above = full calculation with expense deductions.
 
 The Means Test
 
@@ -1220,15 +1406,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1251,6 +1455,8 @@ Home›Chapter 7
 Chapter 7 Bankruptcy in St. Louis
 
 Chapter 7 is the fastest path to debt relief. Most unsecured debts are eliminated in 3-4 months. Here is what St. Louis residents need to know.
+
+Chapter 7 discharges most unsecured debts including credit cards, medical bills, personal loans, and old utility bills. It does not discharge student loans (in most cases), recent taxes, child support, alimony, or debts incurred through fraud.
 
 What Is Chapter 7?
 
@@ -1383,15 +1589,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1414,6 +1638,8 @@ Home›Bankruptcy Filing Checklist for St. Louis
 Bankruptcy Filing Checklist for St. Louis
 
 Use this checklist to prepare for your bankruptcy filing. Being organized speeds up the process and reduces costs.
+
+You need tax returns (2 years), pay stubs (6 months), bank statements (6 months), a list of all debts, asset values, and monthly expenses.
 
 Documents to Gather
 
@@ -1516,15 +1742,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -1547,6 +1791,8 @@ Home » Cities » Ballwin, MO
 Bankruptcy in Ballwin, MO
 
 Ballwin is a western suburb of St. Louis in St. Louis County. It has been ranked as one of the best places to live in Missouri and offers a mix of suburban amenities and community character.
+
+Ballwin residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The drive from Ballwin is approximately 25-30 minutes east on I-64/US-40.
 
 Key Information
 
@@ -1671,6 +1917,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Belleville, IL - St. Louis Bankruptcy Guide
@@ -1684,6 +1932,8 @@ Home » Cities » Belleville, IL
 Bankruptcy in Belleville, IL
 
 Belleville is the county seat of St. Clair County and the largest city in the Illinois portion of the St. Louis metro area. Located about 15 miles east of downtown St. Louis, it serves as the commercial center of the Metro East region.
+
+Belleville residents file in the Southern District of Illinois. The courthouse is at 750 Missouri Ave, East St. Louis, IL 62201, about 15 minutes west. Note: Belleville does NOT file in the Eastern District of Missouri despite proximity to St. Louis.
 
 Key Information
 
@@ -1811,6 +2061,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Chesterfield, MO - St. Louis Bankruptcy Guide
@@ -1824,6 +2076,8 @@ Home » Cities » Chesterfield, MO
 Bankruptcy in Chesterfield, MO
 
 Chesterfield is an affluent western suburb of St. Louis in St. Louis County. It is home to significant commercial development along the I-64/US-40 corridor and known for its high quality of life.
+
+Yes. High income does not disqualify you from bankruptcy. If you earn above the Missouri median, Chapter 13 is available regardless of income level. Some high-income filers may also qualify for Chapter 7 after means test expense deductions.
 
 Key Information
 
@@ -1948,6 +2202,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Columbia, IL - St. Louis Bankruptcy Guide
@@ -1961,6 +2217,8 @@ Home » Cities » Columbia, IL
 Bankruptcy in Columbia, IL
 
 Columbia is a small city in Monroe County, Illinois, located about 15 miles south of downtown St. Louis. It is known for its excellent schools and is one of the most affluent communities in the Metro East area.
+
+Columbia residents file in the Southern District of Illinois at 750 Missouri Ave, East St. Louis, IL 62201. The drive is approximately 20-25 minutes north.
 
 Key Information
 
@@ -2084,6 +2342,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Edwardsville, IL - St. Louis Bankruptcy Guide
@@ -2097,6 +2357,8 @@ Home » Cities » Edwardsville, IL
 Bankruptcy in Edwardsville, IL
 
 Edwardsville is the county seat of Madison County, Illinois, and home to Southern Illinois University Edwardsville. It is a growing community in the Metro East area of the St. Louis region.
+
+Edwardsville residents file in the Southern District of Illinois at 750 Missouri Ave, East St. Louis, IL 62201. The drive is approximately 20-25 minutes southwest.
 
 Key Information
 
@@ -2221,6 +2483,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Florissant, MO - St. Louis Bankruptcy Guide
@@ -2234,6 +2498,8 @@ Home » Cities » Florissant, MO
 Bankruptcy in Florissant, MO
 
 Florissant is the largest city in St. Louis County by population, located in the northern part of the county. It is one of the oldest communities in the St. Louis metro area, founded in 1786.
+
+Florissant residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The courthouse is approximately 20-25 minutes south in downtown St. Louis.
 
 Key Information
 
@@ -2360,6 +2626,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy by City - St. Louis Bankruptcy Guide
@@ -2461,6 +2729,30 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
 ---
 
 ## Bankruptcy in Kirkwood, MO - St. Louis Bankruptcy Guide
@@ -2474,6 +2766,8 @@ Home » Cities » Kirkwood, MO
 Bankruptcy in Kirkwood, MO
 
 Kirkwood is an established inner-ring suburb of St. Louis in St. Louis County. Known for its walkable downtown, historic train station, and strong community identity, it is one of the oldest suburbs in the St. Louis area.
+
+Kirkwood residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The courthouse is approximately 15-20 minutes east in downtown St. Louis.
 
 Key Information
 
@@ -2597,6 +2891,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Maryland Heights, MO - St. Louis Bankruptcy Guide
@@ -2610,6 +2906,8 @@ Home » Cities » Maryland Heights, MO
 Bankruptcy in Maryland Heights, MO
 
 Maryland Heights is a suburban city in western St. Louis County, located along the I-270 corridor. It is home to the Hollywood Casino Amphitheatre and significant commercial development.
+
+Maryland Heights residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The drive is approximately 20-25 minutes east on I-270 and I-64.
 
 Key Information
 
@@ -2734,6 +3032,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in O'Fallon, MO - St. Louis Bankruptcy Guide
@@ -2747,6 +3047,8 @@ Home » Cities » O'Fallon, MO
 Bankruptcy in O'Fallon, MO
 
 O'Fallon is the largest city in St. Charles County and one of the fastest-growing cities in Missouri. Located about 35 miles west of downtown St. Louis along I-70, it has a strong suburban economy.
+
+O'Fallon residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The drive is approximately 40-45 minutes east on I-70. Do not confuse with O'Fallon, IL, which files in a different federal district.
 
 Key Information
 
@@ -2871,6 +3173,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in St. Charles, MO - St. Louis Bankruptcy Guide
@@ -2884,6 +3188,8 @@ Home » Cities » St. Charles, MO
 Bankruptcy in St. Charles, MO
 
 St. Charles is the county seat of St. Charles County and one of the oldest cities on the Missouri River. Located about 30 miles west of downtown St. Louis, it is a rapidly growing suburban community.
+
+St. Charles residents file in the Eastern District of Missouri at the Thomas F. Eagleton U.S. Courthouse, 111 S 10th St, St. Louis, MO 63102. The drive from St. Charles is approximately 35-40 minutes east on I-70.
 
 Key Information
 
@@ -3010,6 +3316,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Webster Groves, MO - St. Louis Bankruptcy Guide
@@ -3023,6 +3331,8 @@ Home » Cities » Webster Groves, MO
 Bankruptcy in Webster Groves, MO
 
 Webster Groves is a charming inner-ring suburb of St. Louis in St. Louis County. Known for its tree-lined streets, historic homes, and strong school system, it has a small-town feel within the metro area.
+
+Webster Groves residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The courthouse is approximately 15 minutes east in downtown St. Louis.
 
 Key Information
 
@@ -3088,7 +3398,7 @@ Webster Groves residents file in the Eastern District of Missouri at 111 S 10th 
 
 Can I file bankruptcy on credit card debt from Webster Groves stores?
 
-Yes. All credit card debt is unsecured and fully dischargeable in bankruptcy. It does not matter where the purchases were made. However, luxury purchases over $800 made within 90 days of filing may be presumed non-dischargeable.
+Yes. All credit card debt is unsecured and fully dischargeable in bankruptcy. It does not matter where the purchases were made. However, luxury purchases over $900 made within 90 days of filing may be presumed non-dischargeable.
 
 Will bankruptcy affect my Webster Groves property taxes?
 
@@ -3146,6 +3456,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Bankruptcy in Wildwood, MO - St. Louis Bankruptcy Guide
@@ -3159,6 +3471,8 @@ Home » Cities » Wildwood, MO
 Bankruptcy in Wildwood, MO
 
 Wildwood is the largest city by area in St. Louis County, located in the far western part of the county. It is known for its rural character, large lots, and outdoor recreation areas.
+
+Wildwood residents file in the Eastern District of Missouri at 111 S 10th St, St. Louis, MO 63102. The drive from Wildwood is approximately 35-40 minutes east on I-64/US-40.
 
 Key Information
 
@@ -3288,6 +3602,8 @@ Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
 Open Bankruptcy Project -- openbankruptcyproject.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## Converting Between Chapters in St. Louis | St. Louis Bankruptcy Guide
@@ -3303,6 +3619,8 @@ Converting Between Chapters in St. Louis
 Sometimes the chapter you filed under is not the right fit. Federal law allows conversion between Chapter 7 and Chapter 13 under certain conditions.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. You have an absolute right under section 706(a), as long as you are eligible for Chapter 13 and the case was not previously converted.
 
 What Is a Bankruptcy Conversion?
 
@@ -3417,15 +3735,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3437,7 +3773,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## How Much Does Bankruptcy Cost in St. Louis? - Filing Fees, Attorney Fees | St. Louis Bankruptcy Guide
+## St. Louis Bankruptcy Cost [2026]: Eastern District of Missouri Filing Fees and Attorney Fees
 Source: https://stlouisbankruptcy.org/cost.html
 
 St. Louis Bankruptcy Guide
@@ -3464,6 +3800,8 @@ Credit Counseling (2 courses)
 $1,000-$4,000
 
 Typical Attorney Fees
+
+The Chapter 7 filing fee is $338. Attorney fees in St. Louis typically range from $1,000 - $2,000. Credit counseling courses cost about $25-50 total. Total: typically $1,400 - $2,400. Fee waivers available for low-income filers.
 
 Chapter 7 Cost Breakdown
 
@@ -3560,15 +3898,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3591,6 +3947,8 @@ Home›Counties
 Bankruptcy by County - St. Louis Metro Area
 
 Your county determines which federal court handles your bankruptcy case and which state exemptions protect your property. Find your county below for specific information.
+
+The St. Louis metro area covers 4 counties: St. Louis City, St. Louis County, St. Charles County, Jefferson County. Each county falls under a specific federal bankruptcy court district.
 
 4 Counties in the St. Louis Metro
 
@@ -3690,15 +4048,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -3710,7 +4086,7 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## Bankruptcy in Jefferson County - St. Louis Bankruptcy Guide
+## Bankruptcy in Jefferson County MO [2026]: Eastern District of Missouri Filing Information
 Source: https://stlouisbankruptcy.org/counties/jefferson-county.html
 
 St. Louis Bankruptcy Guide
@@ -3721,6 +4097,8 @@ Home » Counties » Jefferson County
 Bankruptcy in Jefferson County
 
 Jefferson County is south of St. Louis and includes the cities of Arnold, Festus, and Hillsboro. It is part of the Eastern District of Missouri.
+
+Jefferson County cases are filed in the Eastern District of Missouri, St. Louis Division. The courthouse is at 111 S 10th St, St. Louis, MO 63102. Jefferson County residents typically drive 30-45 minutes to the St. Louis courthouse for hearings.
 
 Key Information
 
@@ -3814,9 +4192,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in St. Charles County - St. Louis Bankruptcy Guide
+## Bankruptcy in St. Charles County MO [2026]: Eastern District of Missouri Filing Information
 Source: https://stlouisbankruptcy.org/counties/st-charles-county.html
 
 St. Louis Bankruptcy Guide
@@ -3827,6 +4207,8 @@ Home » Counties » St. Charles County
 Bankruptcy in St. Charles County
 
 St. Charles County is west of St. Louis across the Missouri River and is one of the fastest-growing counties in the metro area. Includes the cities of St. Charles, O'Fallon, and St. Peters.
+
+St. Charles County cases are filed in the Eastern District of Missouri, St. Louis Division, at 111 S 10th St, St. Louis, MO 63102. Despite being a separate county west of the Missouri River, it falls in the same federal district as St. Louis City and County.
 
 Key Information
 
@@ -3920,9 +4302,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in St. Louis City - St. Louis Bankruptcy Guide
+## Bankruptcy in St. Louis City [2026]: Eastern District of Missouri Filing Information
 Source: https://stlouisbankruptcy.org/counties/st-louis-city.html
 
 St. Louis Bankruptcy Guide
@@ -3933,6 +4317,8 @@ Home » Counties » St. Louis City
 Bankruptcy in St. Louis City
 
 St. Louis City is an independent city (not part of any county) and the urban core of the St. Louis metro area. Cases are filed in the Eastern District of Missouri.
+
+St. Louis City cases are filed in the Eastern District of Missouri, St. Louis Division. The courthouse is at 111 S 10th St, St. Louis, MO 63102. Note that St. Louis City is an independent city, separate from St. Louis County.
 
 Key Information
 
@@ -4026,9 +4412,11 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
-## Bankruptcy in St. Louis County - St. Louis Bankruptcy Guide
+## Bankruptcy in St. Louis County MO [2026]: Eastern District of Missouri Filing Information
 Source: https://stlouisbankruptcy.org/counties/st-louis-county.html
 
 St. Louis Bankruptcy Guide
@@ -4039,6 +4427,8 @@ Home » Counties » St. Louis County
 Bankruptcy in St. Louis County
 
 St. Louis County surrounds St. Louis City and is the most populous county in the metro area, including suburbs like Clayton, Kirkwood, and University City. Cases are filed in the Eastern District of Missouri.
+
+St. Louis County cases are filed in the Eastern District of Missouri, St. Louis Division. The courthouse is at 111 S 10th St, St. Louis, MO 63102 - the same courthouse used for St. Louis City cases.
 
 Key Information
 
@@ -4132,6 +4522,8 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
 ---
 
 ## St. Louis Federal Bankruptcy Court Guide - E.D. Missouri Filing Information [2026]
@@ -4145,6 +4537,8 @@ Home›St. Louis Bankruptcy Guide›Court Guide
 St. Louis Federal Bankruptcy Court Guide
 
 Everything you need to know about the United States Bankruptcy Court for the Eastern District of Missouri. Address, filing hours, local rules, trustee panel, and pro se resources.
+
+File at the Thomas F. Eagleton U.S. Courthouse, 111 S. 10th St, St. Louis, MO 63102. Complete credit counseling first, prepare your petition and schedules, and pay the filing fee. Attorneys must file electronically through CM/ECF. Pro se debtors can file at the clerk's window.
 
 Court Location and Contact
 
@@ -4267,7 +4661,7 @@ howmuchdoesbankruptcycost.com
 bankruptcyexemptionsbystate.com
 prosebankruptcy.org
 
-170+ domains. 10,000+ pages. $0 advertising. No lead generation. Just information.
+213+ domains. 44,000+ pages. $0 advertising. No lead generation. Just information.
 
 Related St. Louis Bankruptcy Resources
 
@@ -4281,13 +4675,33 @@ Exemptions
 
 Bankruptcy Cost
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
@@ -4302,6 +4716,8 @@ Home›Rebuilding Credit After Bankruptcy in St. Louis
 Rebuilding Credit After Bankruptcy in St. Louis
 
 Bankruptcy is not the end of your financial life. Many filers see credit score improvements within 12-24 months of discharge.
+
+Chapter 7 stays for 10 years from filing; Chapter 13 stays for 7 years.
 
 How Long Does Bankruptcy Stay on Your Report?
 
@@ -4378,15 +4794,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4411,6 +4845,8 @@ Credit Card Debt and Bankruptcy in St. Louis
 Credit card debt is the most common unsecured debt eliminated in bankruptcy. Here is how it works for St. Louis residents filing in the Eastern District of Missouri.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+In most cases, yes. Credit card debt is fully dischargeable in Chapter 7. In Chapter 13, you pay a percentage and the rest is discharged. Exceptions exist for recent luxury purchases and cash advances.
 
 Can Bankruptcy Eliminate Credit Card Debt?
 
@@ -4440,7 +4876,7 @@ No income limit - must have regular income
 
 Fraud Exceptions (section 523(a)(2))
 
-Luxury goods over $800 within 90 days - presumed non-dischargeable
+Luxury goods over $900 within 90 days - presumed non-dischargeable
 
 Cash advances over $1,250 within 70 days - presumed non-dischargeable
 
@@ -4517,15 +4953,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4548,6 +5002,8 @@ Home›Using Credit Cards Before Filing Bankruptcy | St. Louis Bankruptcy Guide
 Using Credit Cards Before Filing Bankruptcy
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+Using credit cards when you know you will file bankruptcy can be considered fraud. The Bankruptcy Code presumes fraud for luxury goods purchases over $725 within 90 days and cash advances over $1,000 within 70 days of filing. Best practice: stop using all credit cards immediately once you decide to
 
 What You Need to Know
 
@@ -4592,13 +5048,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4621,6 +5097,8 @@ Home›Types of Debt in St. Louis Bankruptcy
 Types of Debt in St. Louis Bankruptcy
 
 Understanding how different debts are treated in bankruptcy is key to making the right decision.
+
+Most unsecured debts (credit cards, medical bills, personal loans) are dischargeable. Non-dischargeable debts include student loans, recent taxes, child support, and debts from fraud.
 
 Dischargeable Debts
 
@@ -4703,15 +5181,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -4734,6 +5230,8 @@ Home›Debtor Education in St. Louis - Missouri Credit Counseling & E.D. Mo. Req
 Debtor Education Requirements in St. Louis, Missouri
 
 Missouri splits into two federal districts - St. Louis falls in the Eastern District. Same state exemptions as Kansas City, but different local rules, trustees, and dismissal rates. Here is everything E.D. Mo. filers need to know.
+
+St. Louis filers must complete two courses: (1) pre-filing credit counseling from a DOJ-approved agency within 180 days before filing, and (2) a post-filing debtor education (financial management) course before discharge. Missouri has no additional state-level course requirements. Courses cost $10-$50 each and can be completed online, by phone, or in person.
 
 Two Required Courses
 
@@ -4971,13 +5469,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5002,6 +5520,8 @@ What Can Disqualify You From Bankruptcy in St. Louis
 Most people can file, but certain circumstances may temporarily or permanently prevent filing. Here is what St. Louis residents need to know.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Common barriers: prior discharge within time limits (2-8 years depending on chapters), recent dismissals, failure to complete credit counseling, missing tax returns, and means test failure for Chapter 7.
 
 Prior Bankruptcy Filings
 
@@ -5096,15 +5616,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5127,6 +5665,8 @@ Home›Find Your Bankruptcy District - St. Louis Bankruptcy Guide›Find Your Ba
 Find Your Bankruptcy District
 
 Enter your zip code to find which federal bankruptcy court handles cases in your area of the St. Louis metro. The metro spans two states and multiple districts.
+
+St. Louis is in the Eastern District of Missouri. The courthouse is located at 111 S 10th St, St. Louis, MO 63102. Most St. Louis metro zip codes on the Missouri side (630xx-631xx, 636xx-639xx) fall within this district.
 
 Zip Code Lookup
 
@@ -5205,15 +5745,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5238,6 +5796,8 @@ Divorce and Bankruptcy in St. Louis
 Divorce and bankruptcy frequently overlap. Understanding timing, joint debts, support obligations, and property division is critical for St. Louis residents navigating both.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Before: eliminates joint debts, saves money on one filing. After: single-filer income ($56,847 median) may qualify for Chapter 7 more easily. Depends on your situation.
 
 Timing: Before or After Divorce?
 
@@ -5348,15 +5908,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5381,6 +5959,8 @@ Emergency Bankruptcy Filing in St. Louis
 When facing imminent foreclosure, repossession, garnishment, or eviction, an emergency filing can trigger the automatic stay the same day.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+An emergency filing opens a case with minimum paperwork to trigger the automatic stay immediately. You then have 14 days to file remaining documents. Filed at the Eastern District of Missouri.
 
 What Is an Emergency Filing?
 
@@ -5497,15 +6077,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5528,6 +6126,8 @@ Home›Bankruptcy and Employment: Can You Get Fired? | St. Louis Bankruptcy Guid
 Bankruptcy and Employment: Can You Get Fired?
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+Federal law (11 U.S.C. Section 525(a)) prohibits government employers from terminating, refusing to hire, or discriminating against you because of a bankruptcy filing. For private employers, the protection is more limited - they generally cannot fire you for filing, but some courts allow them to co
 
 What You Need to Know
 
@@ -5573,13 +6173,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5602,6 +6222,8 @@ Home›Can I Keep My Engagement Ring in Bankruptcy? | St. Louis Bankruptcy Guide
 Can I Keep My Engagement Ring in Bankruptcy?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+Whether you can keep your engagement ring depends on your state's jewelry exemption. Exemption amounts vary wildly - from $150 in Arizona to unlimited in Texas. If your ring's value exceeds the exemption, the trustee could potentially sell it (though this is rare in practice for modest rings). Many
 
 What You Need to Know
 
@@ -5648,13 +6270,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5677,6 +6319,8 @@ Home›Can Bankruptcy Stop an Eviction? | St. Louis Bankruptcy Guide
 Can Bankruptcy Stop an Eviction?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+The automatic stay under Section 362 temporarily halts most eviction proceedings. However, Section 362(b)(22) limits protection if your landlord already has a judgment for possession. In Chapter 13, you may be able to cure rent arrears through your plan. Timing matters - file before the judgment if
 
 What You Need to Know
 
@@ -5721,13 +6365,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5750,6 +6414,8 @@ Home›Exemptions
 Missouri Bankruptcy Exemptions
 
 Exemptions determine what property you get to keep when you file bankruptcy. Understanding them is critical - they can mean the difference between keeping and losing your home, car, and savings.
+
+Missouri's homestead exemption protects up to $15,000 of equity in your primary residence. Equity is the difference between your home's value and what you owe on the mortgage.
 
 What Are Exemptions?
 
@@ -5830,15 +6496,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5850,7 +6534,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## St. Louis Bankruptcy FAQ - 15 Common Questions Answered | St. Louis Bankruptcy Guide
+## St. Louis Bankruptcy FAQ [2026]: Eastern District of Missouri Procedure and Local Practice
 Source: https://stlouisbankruptcy.org/faq.html
 
 St. Louis Bankruptcy Guide
@@ -5861,6 +6545,8 @@ Home›Faq
 Frequently Asked Questions
 
 Answers to the 15 most common questions from St. Louis residents considering bankruptcy.
+
+Chapter 7 filing fee is $338 and Chapter 13 is $313. Attorney fees typically range from $1,000 - $2,000 for Chapter 7 and $2,500 - $4,000 for Chapter 13. Credit counseling costs about $25-50 total.
 
 Cost and Eligibility
 
@@ -5965,15 +6651,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -5996,6 +6700,8 @@ Home›How to Find Out if Someone Filed Bankruptcy | St. Louis Bankruptcy Guide
 How to Find Out if Someone Filed Bankruptcy
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+All bankruptcy filings are public record. Search PACER (Public Access to Court Electronic Records) at pacer.gov for $0.10 per page. Free alternatives include RECAP (courtlistener.com/recap/) which mirrors many PACER documents. You can also call the bankruptcy court clerk directly or visit in person.
 
 What You Need to Know
 
@@ -6040,13 +6746,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6069,6 +6795,8 @@ Home›Stop Foreclosure in St. Louis
 Stop Foreclosure in St. Louis
 
 If you are facing foreclosure, bankruptcy can stop the process and give you time to catch up. Learn more about saving your home.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately halts foreclosure proceedings.
 
 The Automatic Stay
 
@@ -6137,15 +6865,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6170,6 +6916,8 @@ Bankruptcy Glossary for St. Louis Filers
 Bankruptcy has its own vocabulary. This glossary defines key terms in plain language for filers in the Eastern District of Missouri.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Discharge eliminates your liability on eligible debts - the successful outcome. Dismissal terminates the case without a discharge, leaving you still owing all debts.
 
 A-D
 
@@ -6243,7 +6991,7 @@ Trustee - Court-appointed official administering the case.
 
 Unsecured Debt - Debt without collateral (credit cards, medical bills).
 
-Wildcard Exemption - Exemption applicable to any property. Federal: $1,475 plus up to $13,950 of unused homestead.
+Wildcard Exemption - Exemption applicable to any property. Federal: $1,675 plus up to $15,800 of unused homestead.
 
 Frequently Asked Questions
 
@@ -6292,15 +7040,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6325,6 +7091,8 @@ Bankruptcy Income Limits in St. Louis
 Your income determines which chapter you can file, plan length, and payment amount. Here are Missouri income thresholds for the Eastern District of Missouri.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Chapter 7 means test threshold: $56,847 for 1 person. Below = automatic pass. Above = detailed calculation. Chapter 13 has no income limit.
 
 Missouri Median Income for Means Test
 
@@ -6425,15 +7193,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6445,13 +7231,13 @@ Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
 
 ---
 
-## St. Louis Bankruptcy - Chapter 7 & 13 Filing Guide [2026]
+## St. Louis Bankruptcy - Chapter 7 &amp; 13 Filing Guide [2026]
 Source: https://stlouisbankruptcy.org/
 
 Skip to main content
 
 St. Louis Bankruptcy Guide
-HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 PII Scanner
+HomeChapter 7Chapter 13ExemptionsCostCountiesFAQOBP Rule 9037 Compliance Guide
 
 St. Louis Bankruptcy - Your Complete Filing Guide for 2026
 
@@ -6475,6 +7261,8 @@ Discharge Rate
 $338
 
 Chapter 7 Filing Fee
+
+Chapter 7 filing fees are $338 and Chapter 13 filing fees are $313. Attorney fees in St. Louis typically range from $1,000 - $2,000 for Chapter 7 and $2,500 - $4,000 for Chapter 13. You will also need to pay for required credit counseling courses, usually $25-$50 total.
 
 Chapter 7 vs. Chapter 13: Which Is Right for You?
 
@@ -6657,17 +7445,33 @@ You're subscribed. Thank you!
 
 Privacy policy
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
 
-Cited by the Federal Rules Committee (26-BK-3)
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 Have a Question?
 
@@ -6753,6 +7557,84 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 Bankruptcy Means Test by State -- bankruptcymeanstest.org
 
+Most-read OBP guides
+
+Brunner Test (§523(a)(8))
+
+3-prong analysis for discharging student loans
+
+Car Loan After Bankruptcy
+
+Buy a car and get financing post-discharge
+
+Student Loans in Bankruptcy
+
+Can you discharge them? 2026 guide
+
+Federal Exemptions §522(d)
+
+Complete list of federal exemptions
+
+Nondischargeable Debts List
+
+Debts that survive bankruptcy discharge
+
+Site Map
+
+Additional resources on this site
+
+341 Meeting
+Automatic Stay
+Bank Account
+Buy Car Chapter 13
+Buying A House
+Car Lease
+Chapter 13 Eligibility
+Chapter 13 Payments
+Chapter 7 Eligibility
+Checklist
+Converting Chapters
+Credit After Bankruptcy
+Credit Card Debt
+Credit Cards Before Filing
+Debt Types
+Debtor Education
+Disqualifications
+District Lookup
+Divorce And Bankruptcy
+Emergency Bankruptcy
+Employment
+Engagement Ring
+Eviction
+Find Bankruptcy Filing
+Foreclosure
+Glossary
+Income Limits
+Index
+Judgments
+Keep Your Car
+Keep Your House
+Legal Aid
+Medical Debt Only
+Medical Debt
+Payday Loans
+Reaffirmation Regret
+Renting After Bankruptcy
+Repo Credit Report
+Repossession
+Resources
+Retirement Accounts
+Second Mortgage
+Security Clearance
+Small Business
+Stop Paying Bills
+Surrender Car
+Tax Refund Chapter13
+Timeline
+Timeshare
+Travel Chapter 13
+Wage Garnishment
+
 ---
 
 ## Judgments and Bankruptcy in St. Louis
@@ -6768,6 +7650,8 @@ Judgments and Bankruptcy in St. Louis
 If a creditor has a judgment against you, they can garnish wages, levy accounts, and lien property. Bankruptcy can stop enforcement and may eliminate the debt.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes, if the underlying debt is dischargeable. Most judgments from credit cards, medical bills, and personal loans can be discharged. Fraud, support, and DUI judgments cannot.
 
 What Is a Judgment?
 
@@ -6878,15 +7762,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -6909,6 +7811,8 @@ Home›Keeping Your Car in St. Louis Bankruptcy
 Keeping Your Car in St. Louis Bankruptcy
 
 Most people can keep their vehicle when filing bankruptcy. Here is how it works in Missouri.
+
+Missouri vehicle exemption: $3,000. If you are current on payments and within the exemption, you can keep your car.
 
 Missouri Vehicle Exemption
 
@@ -6977,15 +7881,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7008,6 +7930,8 @@ Home›Keeping Your Home in St. Louis Bankruptcy
 Keeping Your Home in St. Louis Bankruptcy
 
 Your home is often your most valuable asset. Here is how Missouri bankruptcy law protects homeowners.
+
+Missouri homestead exemption: $15,000. If your equity is within the exemption, your home is protected.
 
 Missouri Homestead Exemption
 
@@ -7072,15 +7996,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7103,6 +8045,8 @@ Home›Free Legal Help for Bankruptcy in St. Louis | St. Louis Bankruptcy Guide�
 Free Legal Help for Bankruptcy in St. Louis
 
 If you are struggling with debt but cannot afford a bankruptcy attorney, these St. Louis-area organizations may be able to help - for free or at reduced cost.
+
+Yes. Several organizations in St. Louis provide free legal assistance for bankruptcy cases, including Legal Services of Eastern Missouri and St. Louis Volunteer Lawyers. Eligibility is generally based on income, typically at or below 125-200% of the federal poverty level.
 
 St. Louis Legal Aid Organizations
 
@@ -7212,13 +8156,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project. GitHub
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7241,6 +8205,8 @@ Home›Bankruptcy Means Test in St. Louis
 Bankruptcy Means Test in St. Louis
 
 The means test determines whether you qualify for Chapter 7 bankruptcy. It compares your household income to the Missouri median.
+
+The means test compares your household income to the Missouri median to determine Chapter 7 eligibility. If below the median, you automatically qualify.
 
 How It Works
 
@@ -7321,15 +8287,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7352,6 +8336,8 @@ Home›Can I File Bankruptcy on Medical Debt Only? | St. Louis Bankruptcy Guide
 Can I File Bankruptcy on Medical Debt Only?
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+You cannot selectively file bankruptcy on just one type of debt - all debts must be listed in your petition. However, medical debt IS fully dischargeable in both Chapter 7 and Chapter 13. If medical bills are your primary burden, Chapter 7 may eliminate them entirely in 3-4 months. Before filing, c
 
 What You Need to Know
 
@@ -7397,13 +8383,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7426,6 +8432,8 @@ Home›Bankruptcy for Medical Debt in St. Louis
 Bankruptcy for Medical Debt in St. Louis
 
 Medical bills are a leading driver of bankruptcy filings. Both Chapter 7 and Chapter 13 can eliminate medical debt entirely.
+
+Yes. Medical debt is unsecured and fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy.
 
 Medical Debt in Bankruptcy
 
@@ -7484,15 +8492,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7517,6 +8543,8 @@ Payday Loans and Bankruptcy in St. Louis
 Payday loans carry extreme interest rates - often 400% APR or higher. Bankruptcy can eliminate payday loan debt, but there are important considerations.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+Yes. Payday loans are unsecured debt, dischargeable in both Chapter 7 and Chapter 13.
 
 Can Bankruptcy Eliminate Payday Loans?
 
@@ -7603,15 +8631,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7634,6 +8680,8 @@ Home›Can I Undo a Reaffirmation Agreement? | St. Louis Bankruptcy Guide
 Can I Undo a Reaffirmation Agreement?
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+You have 60 days after the reaffirmation agreement is filed with the court to rescind (cancel) it. After 60 days, your options are limited. You can voluntarily surrender the property, refinance the loan, or negotiate with the creditor. If the reaffirmation was not properly disclosed or you were not
 
 What You Need to Know
 
@@ -7679,13 +8727,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7708,6 +8776,8 @@ Home›Renting an Apartment After Bankruptcy | St. Louis Bankruptcy Guide
 Renting an Apartment After Bankruptcy
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+Finding an apartment after bankruptcy is possible but requires strategy. Most large property management companies run credit checks and will see the bankruptcy. Smaller landlords and individual owners are often more flexible. Tips: offer a larger security deposit, provide references from previous la
 
 What You Need to Know
 
@@ -7753,13 +8823,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7782,6 +8872,8 @@ Home›Can Bankruptcy Remove a Repossession From Your Credit? | St. Louis Bankru
 Can Bankruptcy Remove a Repossession From Your Credit?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+Bankruptcy does not remove a repossession entry from your credit report. However, filing bankruptcy discharges the deficiency balance - the amount you still owe after the repo and sale. Your credit report should show the balance as $0 after discharge. If it still shows a balance, dispute it with th
 
 What You Need to Know
 
@@ -7826,13 +8918,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7855,6 +8967,8 @@ Home›Stop Repossession in St. Louis
 Stop Repossession in St. Louis
 
 If your car is at risk of repossession, bankruptcy can stop the process and help you catch up on payments.
+
+Yes. Filing bankruptcy triggers the automatic stay, which stops repossession. Chapter 13 lets you catch up on missed car payments.
 
 The Automatic Stay Stops Repo
 
@@ -7911,15 +9025,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -7942,6 +9074,8 @@ Home›Resources
 St. Louis Bankruptcy Resources
 
 Courts, legal aid organizations, credit counseling agencies, and free educational tools to help you navigate the bankruptcy process.
+
+The Eastern District of Missouri bankruptcy court is at 111 S 10th St, St. Louis, MO 63102. Phone: (314) 244-4500. Website: www.moeb.uscourts.gov.
 
 Bankruptcy Court
 
@@ -8060,15 +9194,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8091,6 +9243,8 @@ Home›Can I Keep My 401k and Retirement in Bankruptcy? | St. Louis Bankruptcy G
 Can I Keep My 401k and Retirement in Bankruptcy?
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA
 
 What You Need to Know
 
@@ -8136,13 +9290,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8167,6 +9341,8 @@ Second Mortgages and Bankruptcy in St. Louis
 If you have a second mortgage or HELOC and are underwater, Chapter 13 bankruptcy may offer relief through lien stripping.
 
 This page provides general educational information, not legal advice. Consult a qualified attorney for advice about your specific situation.
+
+A Chapter 13 process removing a second mortgage when home value is less than the first mortgage balance. The second mortgage becomes unsecured debt in the plan.
 
 What Is Lien Stripping?
 
@@ -8267,15 +9443,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8298,6 +9492,8 @@ Home›Bankruptcy and Security Clearance | St. Louis Bankruptcy Guide
 Bankruptcy and Security Clearance
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+Filing bankruptcy does NOT automatically revoke your security clearance. In fact, the Department of Defense adjudicative guidelines consider financial irresponsibility a greater risk than filing bankruptcy. Filing shows you are taking responsible steps to address your debt. Many clearance holders fi
 
 What You Need to Know
 
@@ -8343,13 +9539,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8372,6 +9588,8 @@ Home›Small Business Bankruptcy in St. Louis
 Small Business Bankruptcy in St. Louis
 
 Business owners facing financial distress have several bankruptcy options. The right choice depends on your business structure and goals.
+
+Options include Chapter 7 (liquidation), Chapter 11 Subchapter V (reorganization for small businesses with total debts up to $3,424,000), and Chapter 13 (for sole proprietors).
 
 Chapter 7 - Business Liquidation
 
@@ -8440,15 +9658,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8460,7 +9696,7 @@ Open Bankruptcy Project -- openbankruptcyproject.org
 
 ---
 
-## St. Louis Bankruptcy Statistics - 58,254 Cases Analyzed | St. Louis Bankruptcy Guide
+## St. Louis Bankruptcy Statistics [2026]: 58,254 Cases in the Eastern District of Missouri
 Source: https://stlouisbankruptcy.org/statistics.html
 
 St. Louis Bankruptcy Guide
@@ -8495,6 +9731,8 @@ Est. 1328(f) Violations
 2.8%
 
 Pro Se Rate
+
+Between 2008 and 2024, the Eastern District of Missouri saw 58,254 Chapter 13 filings.
 
 What These Numbers Mean for You
 
@@ -8581,15 +9819,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8612,6 +9868,8 @@ Home›What Bills Can I Stop Paying Before Filing? | St. Louis Bankruptcy Guide
 What Bills Can I Stop Paying Before Filing?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+Before filing bankruptcy, you can strategically stop paying unsecured debts like credit cards and medical bills. Keep paying your mortgage, car payment, utilities, child support, and alimony. Be aware of the 90-day preference period - large payments to specific creditors before filing can be clawed
 
 What You Need to Know
 
@@ -8656,13 +9914,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8685,6 +9963,8 @@ Home›Student Loans and Bankruptcy in St. Louis
 Student Loans and Bankruptcy in St. Louis
 
 Student loans are generally not discharged in bankruptcy, but there are exceptions and strategies worth understanding.
+
+Student loans are difficult to discharge but not impossible. You must file an adversary proceeding and prove undue hardship.
 
 The General Rule
 
@@ -8751,15 +10031,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8782,6 +10080,8 @@ Home›Surrendering Your Car in Bankruptcy | St. Louis Bankruptcy Guide
 Surrendering Your Car in Bankruptcy
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+Voluntary surrender means you return the vehicle to the lender. In Chapter 7, the remaining deficiency balance (what you owe minus the car's value) is discharged. You will not owe anything after discharge. The process: notify your attorney, the lender arranges pickup, you remove personal belongings.
 
 What You Need to Know
 
@@ -8827,13 +10127,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8856,6 +10176,8 @@ Home›Tax Debt and Bankruptcy in St. Louis
 Tax Debt and Bankruptcy in St. Louis
 
 Some tax debts can be eliminated in bankruptcy, but the rules are specific. Here is what St. Louis filers need to know.
+
+Some income taxes can be discharged if they meet specific age, filing, and assessment requirements (the 3-2-240 rule).
 
 The 3-2-240 Rule
 
@@ -8928,15 +10250,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -8959,6 +10299,8 @@ Home›Will the Chapter 13 Trustee Take My Tax Refund? | St. Louis Bankruptcy Gu
 Will the Chapter 13 Trustee Take My Tax Refund?
 
 A free guide for Missouri residents. Filed in E.D. Mo..
+
+In most districts, the Chapter 13 trustee requires you to turn over tax refunds above a certain threshold (typically $2,000-$3,000, varies by trustee). Your plan may include specific provisions about tax refunds. You can request a plan modification to retain your refund for a necessary expense. File
 
 What You Need to Know
 
@@ -9004,13 +10346,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9033,6 +10395,8 @@ Home›Bankruptcy Timeline in St. Louis
 Bankruptcy Timeline in St. Louis
 
 Here is what to expect at each stage of the bankruptcy process.
+
+Chapter 7 typically takes 3-4 months from filing to discharge.
 
 Chapter 7 Timeline
 
@@ -9107,15 +10471,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9139,6 +10521,8 @@ Timeshares and Bankruptcy
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
 
+You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under
+
 What You Need to Know
 
 You can surrender an unwanted timeshare in Chapter 7 bankruptcy. The remaining balance on the timeshare loan is dischargeable. However, HOA maintenance fees that come due after filing may not be dischargeable. Some timeshare companies aggressively pursue post-discharge fees - know your rights under the discharge injunction.
@@ -9182,13 +10566,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9211,6 +10615,8 @@ Home›Can I Travel During Chapter 13? | St. Louis Bankruptcy Guide
 Can I Travel During Chapter 13?
 
 A free guide for Missouri residents considering bankruptcy. Filed in E.D. Mo..
+
+There is no legal restriction on domestic travel during Chapter 13. For international travel, some trustees ask to be notified for extended trips. Luxury vacations may draw scrutiny if the trustee believes you have disposable income that should go to creditors. Budget travel and visiting family are
 
 What You Need to Know
 
@@ -9255,13 +10661,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-© 2026 Open Bankruptcy Project.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
+
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9284,6 +10710,8 @@ Home›Stop Wage Garnishment in St. Louis
 Stop Wage Garnishment in St. Louis
 
 If your wages are being garnished, filing bankruptcy can stop the garnishment immediately through the automatic stay.
+
+Yes. Filing bankruptcy triggers the automatic stay, which immediately stops wage garnishment.
 
 Missouri Garnishment Law
 
@@ -9342,15 +10770,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9373,6 +10819,8 @@ Home›What To Expect
 What to Expect When Filing Bankruptcy
 
 The bankruptcy process can feel overwhelming, but it follows a clear, predictable path. Here is exactly what happens from start to finish.
+
+The 341 meeting is a brief hearing where the bankruptcy trustee asks you questions under oath about your financial situation. You need photo ID and proof of Social Security number. Most meetings last only 5-10 minutes. Creditors may attend but rarely do.
 
 Chapter 7 Timeline
 
@@ -9531,15 +10979,33 @@ St. Louis Exemptions
 
 Bankruptcy Cost in St. Louis
 
-Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+Part of the Bankruptcy Transparency Network
 
-An Open Bankruptcy Project resource
+Real information, no strings.
 
-Data sourced from the Federal Judicial Center Integrated Database (2008--2024).
+Discharge Screener
+Open Bankruptcy Project
+Ch.7 vs Ch.13
+Bankruptcy Cost
+Automatic Stay
+341 Meeting
+Exemptions by State
+Means Test
+File Without a Lawyer
+Rebuild Credit
+1099cdebt.com
 
-This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+Free bankruptcy education for the public interest. Not legal advice.
+If you need legal help, contact a licensed attorney in your state.
+A project of the Open Bankruptcy Project,
+a 501(c)(3) nonprofit (EIN 41-5159631).
 
-© 2026 Open Bankruptcy Project. GitHub
+Privacy |
+Terms
+
+♥ Donate
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 You May Also Find Helpful
 
@@ -9607,7 +11073,7 @@ You may request deletion of any personal data we hold by contacting info@openban
 
 Network Policy
 
-This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit. The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+This site is part of the Open Bankruptcy Project operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
 
 Changes
 
@@ -9617,6 +11083,61 @@ Effective: March 30, 2026  |  Updated: April 11, 2026
 
 Home  ·  Privacy  ·  Open Bankruptcy Project
 
-Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+Our research was cited by the federal judiciary as Suggestions 26-BK-3 and 26-BK-5
+
+---
+
+## About stlouisbankruptcy.org
+Source: https://stlouisbankruptcy.org/about.html
+
+stlouisbankruptcy.org
+
+Home
+About
+Privacy
+
+About stlouisbankruptcy.org
+
+Part of the Open Bankruptcy Project operated by the Open Bankruptcy Project.
+
+What This Site Is
+
+stlouisbankruptcy.org is an educational resource operated by the Open Bankruptcy Project, a 501(c)(3) public charity (EIN 41-5159631). It's part of the Open Bankruptcy Project - a collection of free, public-interest sites that translate federal bankruptcy court data, statutes, and procedures into language ordinary people can use.
+
+The Open Bankruptcy Project
+
+The Open Bankruptcy Project builds free, open-source tools that make public bankruptcy court data accessible to the people it affects most - debtors, advocates, researchers, journalists, and policymakers. Every screening tool, analysis script, and dataset is published on GitHub. Anyone can audit, reproduce, or build upon the work without permission or payment.
+
+Our research is derived primarily from the Federal Judicial Center's Integrated Database covering all federal bankruptcy filings 2008 through 2024, cross-referenced with PACER docket data via the Free Law Project's RECAP archive and independent court-scraping tooling. Methodology and source code are public.
+
+What This Site Is Not
+
+This site is not a law firm. We do not represent clients, file bankruptcy cases, or give legal advice. We do not receive referral fees, affiliate commissions, or advertising revenue. We do not sell data.
+
+If you need legal advice about your specific situation, consult a licensed bankruptcy attorney in your state.
+
+Research Contributions
+
+Our research supports two accepted suggestions to the Federal Judicial Conference Advisory Committee on Bankruptcy Rules:
+
+Suggestion 26-BK-3 - procedural screening for 11 U.S.C. § 1328(f) re-filing eligibility
+
+Suggestion 26-BK-5 - Rule 9037 / Form 121 / Form 309E1 amendments addressing systematic unredacted Social Security number exposure on federal bankruptcy dockets
+
+Contact
+
+General inquiries, data requests, research collaboration, and media: info@openbankruptcyproject.org
+
+Privacy and Data Handling
+
+See our privacy policy for details. Short version: aggregate analytics only; no data sold, no advertising, no attorney referrals, no financial information collected.
+
+Home  ·  About  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Open Bankruptcy Project. Educational information only - not legal advice.
 
 No ads. No affiliate links. No data sold. Supported by donations.
