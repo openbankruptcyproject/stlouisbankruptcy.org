@@ -664,7 +664,7 @@ Chapter 13 is available to individuals with regular income under 11 U.S.C. secti
 
 Regular income: Wages, self-employment, Social Security, pension, or regular family contributions
 
-Debt limits: Total noncontingent, liquidated debts must not exceed $2,750,000 (combined secured and unsecured)
+Debt limits: Noncontingent, liquidated debts must not exceed $526,700 unsecured and $1,580,125 secured
 
 Credit counseling: Required within 180 days before filing
 
@@ -718,7 +718,7 @@ Frequently Asked Questions
 
 What is the debt limit for Chapter 13?
 
-As of 2024, the combined limit is $2,750,000 for all noncontingent, liquidated debts. If debts exceed this, Chapter 11 may be an option.
+As of April 1, 2025, the limits are $526,700 in noncontingent, liquidated unsecured debts and $1,580,125 in secured debts. If debts exceed this, Chapter 11 may be an option.
 
 Is there an income limit?
 
@@ -3328,7 +3328,7 @@ Must have regular income for a Chapter 13 plan
 
 Case must not have been previously converted from Chapter 13
 
-Must be eligible for Chapter 13 (debts within $2,750,000 limit)
+Must be eligible for Chapter 13 (debts within the section 109(e) limits: $526,700 unsecured, $1,580,125 secured)
 
 Chapter 13 to Chapter 7
 
@@ -4442,7 +4442,7 @@ Fraud Exceptions (section 523(a)(2))
 
 Luxury goods over $800 within 90 days - presumed non-dischargeable
 
-Cash advances over $1,100 within 70 days - presumed non-dischargeable
+Cash advances over $1,250 within 70 days - presumed non-dischargeable
 
 Fraud: Credit obtained with no intent to repay or false application
 
@@ -4849,17 +4849,17 @@ RSMo 513.427 through 513.440
 
 Federal Exemptions (Often Better)
 
-Homestead$27,900
+Homestead$31,575
 
-Motor vehicle$4,450
+Motor vehicle$5,025
 
-Household goods$14,875 total ($700/item)
+Household goods$16,850 total ($800/item)
 
-Jewelry$1,875
+Jewelry$2,125
 
-Wildcard$1,475 + $13,950 unused homestead
+Wildcard$1,675 + $15,800 unused homestead
 
-Tools of trade$2,800
+Tools of trade$3,175
 
 Retirement (ERISA)Unlimited
 
@@ -4867,7 +4867,7 @@ Health aidsUnlimited
 
 11 U.S.C. 522(d) - amounts adjusted April 2025
 
-Missouri's state homestead exemption ($15,000) is among the lowest in the country. For renters and those without home equity, the federal wildcard ($1,475 + $13,950 unused homestead = $15,425) provides far more flexible protection. Run both sets against your assets before filing.
+Missouri's state homestead exemption ($15,000) is among the lowest in the country. For renters and those without home equity, the federal wildcard ($1,675 + $15,800 unused homestead = $17,475) provides far more flexible protection. Run both sets against your assets before filing.
 
 Missouri-Specific Rules for St. Louis Filers
 
@@ -4935,7 +4935,7 @@ Thomas F. Eagleton U.S. Courthouse, 111 S. 10th Street, 4th Floor, St. Louis, MO
 
 Should I use Missouri or federal exemptions?
 
-It depends on your assets. Missouri's homestead ($15,000) is very low; the federal homestead ($27,900) is nearly double. For renters with no home equity, the federal wildcard ($15,425 total) provides much more protection than Missouri's ($600). Run both sets against your property before filing. You cannot mix-and-match.
+It depends on your assets. Missouri's homestead ($15,000) is very low; the federal homestead ($31,575) is more than double. For renters with no home equity, the federal wildcard ($17,475 total) provides much more protection than Missouri's ($600). Run both sets against your property before filing. You cannot mix-and-match.
 
 What is the difference between E.D. Mo. and W.D. Mo.?
 
@@ -5045,7 +5045,7 @@ Missing tax returns: Must have filed for the 4 most recent years
 
 Fraud or abuse: Court can dismiss for bad faith under section 707(b)
 
-Debt limits (Chapter 13): Combined debts over $2,750,000 disqualify from Chapter 13
+Debt limits (Chapter 13): Combined debts over the section 109(e) limits ($526,700 unsecured or $1,580,125 secured) disqualify from Chapter 13
 
 Not an individual: Only individuals can file Chapter 13
 
@@ -8094,7 +8094,7 @@ A free guide for Missouri residents. Filed in E.D. Mo..
 
 What You Need to Know
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 In Missouri: Missouri follows federal ERISA protections for qualified retirement accounts.
 
@@ -8104,7 +8104,7 @@ Frequently Asked Questions
 
 Can I Keep My 401k and Retirement in Bankruptcy?
 
-Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,512,350 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
+Yes - ERISA-qualified retirement accounts (401k, 403b, pensions) are 100% exempt under federal law, regardless of value. This is one of the strongest protections in bankruptcy. Traditional and Roth IRAs are exempt up to $1,711,975 (adjusted periodically). SEP-IRAs and SIMPLE IRAs get the same ERISA protection as 401k plans. Your retirement savings are safe.
 
 How does this work in Missouri?
 
@@ -8385,7 +8385,7 @@ No discharge for the entity - only individuals receive a discharge
 
 Chapter 11 Subchapter V - Small Business Reorganization
 
-Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $7.5 million in debt.
+Subchapter V (added by the Small Business Reorganization Act of 2019) provides a streamlined reorganization for businesses with less than $3,424,000 in debt.
 
 No creditors' committee (lower costs)
 
@@ -8397,7 +8397,7 @@ Only debtor can propose a plan
 
 Chapter 13 - Sole Proprietors
 
-If you are a sole proprietor with less than $2,750,000 in total debt, Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
+If you are a sole proprietor with debts under the Chapter 13 limits ($526,700 unsecured, $1,580,125 secured), Chapter 13 lets you reorganize both personal and business debts through a 3-5 year plan while keeping the business operating.
 
 Personal Guarantees
 
